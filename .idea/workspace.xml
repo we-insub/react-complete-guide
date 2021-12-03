@@ -36,10 +36,23 @@
       <option name="presentableId" value="Default" />
       <updated>1638495149069</updated>
       <workItem from="1638495151737" duration="52000" />
+      <workItem from="1638495231392" duration="165000" />
     </task>
+    <task id="LOCAL-00001" summary="2021 12 03 &#10;Udemy React Study start with Max&#10;초기설정">
+      <created>1638495331642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638495331642</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021 12 03 &#10;Udemy React Study start with Max&#10;초기설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021 12 03 &#10;Udemy React Study start with Max&#10;초기설정" />
   </component>
 </project>
