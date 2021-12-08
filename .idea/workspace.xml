@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExpenseItem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <workItem from="1638509416237" duration="650000" />
       <workItem from="1638514458439" duration="660000" />
       <workItem from="1638779019637" duration="615000" />
-      <workItem from="1638839845832" duration="2502000" />
+      <workItem from="1638839845832" duration="4530000" />
     </task>
     <task id="LOCAL-00001" summary="2021 12 03 &#10;Udemy React Study start with Max&#10;초기설정">
       <created>1638495331642</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638839917035</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2021 12 07&#10;ExpenseItem.js - JS 를 사용해서 Year,Month,Day 수정&#10;&#10;2021 12 03 &#10;JSX Guide Step 2 - JSX 안에서 JS사용 하기, cosnt 선언후 {}안에사용&#10;JSX Guide Step 1&#10;npm install 기본설정&#10;&#10;Udemy React Study start with Max&#10;초기설정">
+      <created>1638858038811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638858038811</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
